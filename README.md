@@ -1,0 +1,1 @@
+Sample architecture for React-Redux projects
